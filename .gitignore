@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Ignore user personal config
+LICENSE.comment
+
+# Ignore README previews
+README.html
+
+# Ignore emacs edits
+makefile~
+*~
